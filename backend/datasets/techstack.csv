@@ -1,0 +1,16 @@
+startup_type,frontend,backend,database,ai_ml,cloud,authentication,payments,devops,analytics
+AI SaaS,React; Next.js,FastAPI; Node.js,PostgreSQL; Redis,OpenAI API; LangChain,AWS; Vercel,Clerk; Auth0,Stripe,Docker; GitHub Actions,Mixpanel; PostHog
+Fintech,React; TypeScript,Spring Boot; Node.js,PostgreSQL; MongoDB,Python; Scikit-learn,AWS; Azure,Auth0; Okta,Stripe; Razorpay,Kubernetes; Jenkins,Tableau; Power BI
+Healthcare,React; Vue.js,Django; FastAPI,PostgreSQL; Firebase,TensorFlow; PyTorch,AWS HIPAA; Google Cloud,Okta; Firebase Auth,Stripe,Docker; Terraform,Looker; Metabase
+EdTech,Next.js; React,Node.js; Django,PostgreSQL; Firebase,OpenAI API; Hugging Face,AWS; Render,Clerk; Firebase Auth,Stripe; PayPal,Docker; GitHub Actions,Google Analytics; Mixpanel
+Productivity Apps,React; Tailwind CSS,Express.js; FastAPI,PostgreSQL; Supabase,OpenAI API; LangChain,Vercel; AWS,Auth0; Clerk,Stripe,Docker; Railway,PostHog; Amplitude
+AI Automation,React; Next.js,FastAPI; Node.js,PostgreSQL; Redis,LangChain; OpenAI API,AWS; GCP,Clerk; Auth0,Stripe,Kubernetes; Docker,PostHog; Grafana
+Cybersecurity,React; Angular,Go; Node.js,PostgreSQL; Elasticsearch,PyTorch; SIEM ML,AWS; Azure,Okta; Auth0,Stripe,Kubernetes; Terraform,Splunk; Grafana
+Ecommerce SaaS,Next.js; Vue.js,Node.js; Laravel,MySQL; Redis,Recommendation ML; OpenAI API,Shopify Cloud; AWS,Firebase Auth; Auth0,Stripe; Razorpay,Docker; GitHub Actions,Google Analytics; Hotjar
+Developer Tools,React; Svelte,Go; Node.js,PostgreSQL; Redis,OpenAI API; Vector DB,AWS; Fly.io,GitHub OAuth; Auth0,Stripe,Docker; Kubernetes,Datadog; Prometheus
+Climate Tech,React; Next.js,Python Flask; FastAPI,PostgreSQL; TimescaleDB,TensorFlow; XGBoost,AWS; Azure AD,Auth0; Clerk,Stripe,Docker; Terraform,Power BI; Grafana
+Legal Tech,React; Tailwind CSS,Django; Node.js,PostgreSQL; Elasticsearch,OpenAI API; NLP Models,AWS; Vercel,Auth0; Clerk,Stripe,Docker; CI/CD Pipelines,Metabase; Mixpanel
+Travel Tech,Next.js; React,Node.js; FastAPI,MongoDB; Redis,Recommendation AI; GPT APIs,AWS; GCP,Firebase Auth; Auth0,Stripe; PayPal,Docker; Railway,Google Analytics; Amplitude
+HR SaaS,React; Vue.js,Spring Boot; Node.js,PostgreSQL; Redis,Resume Parsing AI; OpenAI API,AWS; Azure,Okta; Clerk,Stripe,Docker; Jenkins,Tableau; Mixpanel
+Real Estate Tech,Next.js; React,Django; FastAPI,PostgreSQL; Firebase,Prediction Models; OpenAI API,AWS; Render,Auth0; Firebase Auth,Stripe,Docker; Terraform,Looker Studio; PostHog
+Logistics SaaS,React; Angular,Go; Node.js,PostgreSQL; Cassandra,Route Optimization ML; TensorFlow,AWS; Azure,Okta; Auth0,Stripe,Kubernetes; Docker,Grafana; Power BI

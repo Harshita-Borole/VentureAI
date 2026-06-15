@@ -1,0 +1,36 @@
+role,experience_level,employment_type,region,monthly_salary_usd,annual_salary_usd
+Frontend Developer,Junior,Full-time,India,900,10800
+Frontend Developer,Mid-level,Full-time,India,1600,19200
+Frontend Developer,Senior,Full-time,India,3000,36000
+Frontend Developer,Junior,Full-time,United States,5500,66000
+Frontend Developer,Mid-level,Full-time,United States,8500,102000
+Frontend Developer,Senior,Full-time,United States,13000,156000
+Frontend Developer,Mid-level,Contract,Europe,5000,60000
+Backend Developer,Junior,Full-time,India,1000,12000
+Backend Developer,Mid-level,Full-time,India,1800,21600
+Backend Developer,Senior,Full-time,India,3400,40800
+Backend Developer,Junior,Full-time,United States,6000,72000
+Backend Developer,Mid-level,Full-time,United States,9500,114000
+Backend Developer,Senior,Full-time,United States,14500,174000
+Backend Developer,Mid-level,Contract,Europe,5500,66000
+AI Engineer,Junior,Full-time,India,1800,21600
+AI Engineer,Mid-level,Full-time,India,3200,38400
+AI Engineer,Senior,Full-time,India,5500,66000
+AI Engineer,Junior,Full-time,United States,8500,102000
+AI Engineer,Mid-level,Full-time,United States,13000,156000
+AI Engineer,Senior,Full-time,United States,19000,228000
+AI Engineer,Mid-level,Contract,Europe,9000,108000
+UI/UX Designer,Junior,Full-time,India,800,9600
+UI/UX Designer,Mid-level,Full-time,India,1500,18000
+UI/UX Designer,Senior,Full-time,India,2800,33600
+UI/UX Designer,Junior,Full-time,United States,4500,54000
+UI/UX Designer,Mid-level,Full-time,United States,7500,90000
+UI/UX Designer,Senior,Full-time,United States,11500,138000
+UI/UX Designer,Mid-level,Contract,Europe,4200,50400
+Marketing Specialist,Junior,Full-time,India,700,8400
+Marketing Specialist,Mid-level,Full-time,India,1300,15600
+Marketing Specialist,Senior,Full-time,India,2500,30000
+Marketing Specialist,Junior,Full-time,United States,4000,48000
+Marketing Specialist,Mid-level,Full-time,United States,7000,84000
+Marketing Specialist,Senior,Full-time,United States,10500,126000
+Marketing Specialist,Mid-level,Contract,Europe,3800,45600

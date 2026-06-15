@@ -1,0 +1,65 @@
+service,provider,usage_type,monthly_cost_usd
+Backend Server,AWS,t3.micro,12
+Backend Server,AWS,t3.small,18
+Backend Server,AWS,t3.medium,40
+Backend Server,Google Cloud,e2-micro,10
+Backend Server,Google Cloud,e2-small,20
+Backend Server,Google Cloud,e2-medium,35
+Backend Server,Azure,B1s VM,15
+Backend Server,Azure,B2s VM,38
+Frontend Hosting,Vercel,Hobby Plan,0
+Frontend Hosting,Vercel,Pro Plan,20
+Frontend Hosting,Netlify,Starter Plan,0
+Frontend Hosting,Netlify,Pro Plan,19
+Frontend Hosting,Cloudflare Pages,Free Tier,0
+Database Hosting,Supabase,Free Tier,0
+Database Hosting,Supabase,PostgreSQL Starter,25
+Database Hosting,Neon,Serverless PostgreSQL Free,0
+Database Hosting,Neon,Serverless PostgreSQL Pro,19
+Database Hosting,AWS RDS,db.t3.micro PostgreSQL,18
+Database Hosting,AWS RDS,db.t3.small PostgreSQL,35
+Database Hosting,Google Cloud SQL,Shared Core PostgreSQL,30
+Vector Database,Pinecone,Starter Plan,0
+Vector Database,Pinecone,Standard Plan,50
+Vector Database,ChromaDB,Self-hosted,0
+Vector Database,Weaviate,Cloud Starter,25
+Object Storage,AWS S3,100GB Storage,10
+Object Storage,Google Cloud Storage,100GB Standard Storage,9
+Object Storage,Cloudflare R2,100GB Storage,7
+Caching,Redis Cloud,Starter Plan,5
+Caching,Redis Cloud,Pro Plan,25
+Authentication,Clerk,Starter Plan,0
+Authentication,Clerk,Pro Plan,25
+Authentication,Firebase Auth,Spark Plan,0
+Authentication,Firebase Auth,Blaze Plan Small Usage,10
+Monitoring,Datadog,Basic Monitoring,15
+Monitoring,New Relic,Starter Observability,0
+Monitoring,UptimeRobot,Pro Monitoring,8
+CI/CD,GitHub Actions,Small Team Usage,10
+CI/CD,GitLab CI,Starter Plan,19
+Container Hosting,Railway,Starter Usage,5
+Container Hosting,Render,Starter Web Service,7
+Container Hosting,Fly.io,Basic Shared CPU,5
+API Gateway,AWS API Gateway,Small API Usage,8
+API Gateway,Cloudflare Workers,Starter Usage,5
+Email Service,SendGrid,Essentials Plan,20
+Email Service,Resend,Developer Plan,0
+Push Notifications,OneSignal,Free Tier,0
+Push Notifications,Firebase Cloud Messaging,Standard Usage,0
+Analytics,Mixpanel,Growth Plan,25
+Analytics,PostHog,Open Source Self-hosted,0
+AI API Usage,Gemini API,Small MVP Usage,15
+AI API Usage,Gemini API,Medium SaaS Usage,40
+AI API Usage,OpenAI API,GPT Small Scale Usage,50
+AI API Usage,OpenAI API,GPT Medium Scale Usage,150
+AI API Usage,Anthropic Claude API,Starter Usage,60
+Search API,Tavily API,Free Tier,0
+Search API,Tavily API,Developer Usage,25
+Search API,Brave Search API,Basic Usage,5
+Domain Services,Namecheap,.com Domain Annualized Monthly Cost,1
+CDN,Cloudflare,Free CDN,0
+CDN,AWS CloudFront,Small Traffic Usage,12
+Security,Snyk,Developer Security Plan,0
+Security,Cloudflare WAF,Pro Security Plan,20
+Backup Services,Backblaze,B2 Backup Storage 100GB,6
+Backup Services,AWS Backup,Small Backup Usage,10

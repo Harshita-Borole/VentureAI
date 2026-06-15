@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# ChromaDB / Vector DB
+memory_db/
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Python Packaging
+*.egg-info/
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Vite
+frontend/dist/
+
+# Misc
+*.tmp
